@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ParcialReactjs/static/css/main.a5746b34.chunk.css",
+    "main.js": "/ParcialReactjs/static/js/main.63a67cfa.chunk.js",
+    "main.js.map": "/ParcialReactjs/static/js/main.63a67cfa.chunk.js.map",
+    "runtime-main.js": "/ParcialReactjs/static/js/runtime-main.648f36fe.js",
+    "runtime-main.js.map": "/ParcialReactjs/static/js/runtime-main.648f36fe.js.map",
+    "static/js/2.a2063b9d.chunk.js": "/ParcialReactjs/static/js/2.a2063b9d.chunk.js",
+    "static/js/2.a2063b9d.chunk.js.map": "/ParcialReactjs/static/js/2.a2063b9d.chunk.js.map",
+    "index.html": "/ParcialReactjs/index.html",
+    "static/css/main.a5746b34.chunk.css.map": "/ParcialReactjs/static/css/main.a5746b34.chunk.css.map",
+    "static/js/2.a2063b9d.chunk.js.LICENSE.txt": "/ParcialReactjs/static/js/2.a2063b9d.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/ParcialReactjs/static/media/Poppins-Regular.e09d5cf4.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.648f36fe.js",
+    "static/js/2.a2063b9d.chunk.js",
+    "static/css/main.a5746b34.chunk.css",
+    "static/js/main.63a67cfa.chunk.js"
+  ]
+}
