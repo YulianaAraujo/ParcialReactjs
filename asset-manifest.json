@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ParcialReactjs/static/css/main.eaa8e704.chunk.css",
-    "main.js": "/ParcialReactjs/static/js/main.9b85f65f.chunk.js",
-    "main.js.map": "/ParcialReactjs/static/js/main.9b85f65f.chunk.js.map",
+    "main.css": "/ParcialReactjs/static/css/main.197364cd.chunk.css",
+    "main.js": "/ParcialReactjs/static/js/main.2d3de7ff.chunk.js",
+    "main.js.map": "/ParcialReactjs/static/js/main.2d3de7ff.chunk.js.map",
     "runtime-main.js": "/ParcialReactjs/static/js/runtime-main.648f36fe.js",
     "runtime-main.js.map": "/ParcialReactjs/static/js/runtime-main.648f36fe.js.map",
     "static/js/2.b68f3fc5.chunk.js": "/ParcialReactjs/static/js/2.b68f3fc5.chunk.js",
     "static/js/2.b68f3fc5.chunk.js.map": "/ParcialReactjs/static/js/2.b68f3fc5.chunk.js.map",
     "index.html": "/ParcialReactjs/index.html",
-    "static/css/main.eaa8e704.chunk.css.map": "/ParcialReactjs/static/css/main.eaa8e704.chunk.css.map",
+    "static/css/main.197364cd.chunk.css.map": "/ParcialReactjs/static/css/main.197364cd.chunk.css.map",
     "static/js/2.b68f3fc5.chunk.js.LICENSE.txt": "/ParcialReactjs/static/js/2.b68f3fc5.chunk.js.LICENSE.txt",
     "static/media/fonts.css": "/ParcialReactjs/static/media/Poppins-Regular.e09d5cf4.ttf",
     "static/media/style-footer.css": "/ParcialReactjs/static/media/bg-boost-desktop.772154c9.svg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.648f36fe.js",
     "static/js/2.b68f3fc5.chunk.js",
-    "static/css/main.eaa8e704.chunk.css",
-    "static/js/main.9b85f65f.chunk.js"
+    "static/css/main.197364cd.chunk.css",
+    "static/js/main.2d3de7ff.chunk.js"
   ]
 }
