@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ParcialReactjs/static/css/main.d590a90e.chunk.css",
-    "main.js": "/ParcialReactjs/static/js/main.2d3de7ff.chunk.js",
-    "main.js.map": "/ParcialReactjs/static/js/main.2d3de7ff.chunk.js.map",
+    "main.js": "/ParcialReactjs/static/js/main.682e7663.chunk.js",
+    "main.js.map": "/ParcialReactjs/static/js/main.682e7663.chunk.js.map",
     "runtime-main.js": "/ParcialReactjs/static/js/runtime-main.648f36fe.js",
     "runtime-main.js.map": "/ParcialReactjs/static/js/runtime-main.648f36fe.js.map",
     "static/js/2.b68f3fc5.chunk.js": "/ParcialReactjs/static/js/2.b68f3fc5.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.648f36fe.js",
     "static/js/2.b68f3fc5.chunk.js",
     "static/css/main.d590a90e.chunk.css",
-    "static/js/main.2d3de7ff.chunk.js"
+    "static/js/main.682e7663.chunk.js"
   ]
 }
